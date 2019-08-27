@@ -1,0 +1,11 @@
+[15-Nov-2016 11:13:15 Etc/GMT] PHP Fatal error:  Class 'Billingmodel' not found in /home/idreamzg/public_html/billing.ind.in/bakes/system/core/Loader.php on line 304
+[16-Nov-2016 05:39:06 Etc/GMT] PHP Fatal error:  Class 'Billingmodel' not found in /home/idreamzg/public_html/billing.ind.in/bakes/system/core/Loader.php on line 304
+[16-Nov-2016 05:39:06 Etc/GMT] PHP Fatal error:  Class 'Billingmodel' not found in /home/idreamzg/public_html/billing.ind.in/bakes/system/core/Loader.php on line 304
+[16-Nov-2016 11:09:06 Asia/Kolkata] PHP Fatal error:  Call to undefined method Billingmodel::get_billnos() in /home/idreamzg/public_html/billing.ind.in/bakes/application/controllers/admin/add_billing.php on line 357
+[16-Nov-2016 11:09:10 Asia/Kolkata] PHP Fatal error:  Call to undefined method Billingmodel::get_billing_reports() in /home/idreamzg/public_html/billing.ind.in/bakes/application/controllers/admin/add_billing.php on line 349
+[16-Nov-2016 11:09:13 Asia/Kolkata] PHP Fatal error:  Call to undefined method Billingmodel::get_billing_reports() in /home/idreamzg/public_html/billing.ind.in/bakes/application/controllers/admin/add_billing.php on line 349
+[16-Nov-2016 11:09:14 Asia/Kolkata] PHP Fatal error:  Call to undefined method Billingmodel::get_billing_reports() in /home/idreamzg/public_html/billing.ind.in/bakes/application/controllers/admin/add_billing.php on line 349
+[16-Nov-2016 11:09:16 Asia/Kolkata] PHP Fatal error:  Call to undefined method Billingmodel::get_billing_reports() in /home/idreamzg/public_html/billing.ind.in/bakes/application/controllers/admin/add_billing.php on line 349
+[16-Nov-2016 11:09:18 Asia/Kolkata] PHP Fatal error:  Call to undefined method Billingmodel::get_billing_reports() in /home/idreamzg/public_html/billing.ind.in/bakes/application/controllers/admin/add_billing.php on line 349
+[16-Nov-2016 11:09:20 Asia/Kolkata] PHP Fatal error:  Call to undefined method Billingmodel::get_billing_reports() in /home/idreamzg/public_html/billing.ind.in/bakes/application/controllers/admin/add_billing.php on line 349
+[16-Nov-2016 11:09:21 Asia/Kolkata] PHP Fatal error:  Call to undefined method Billingmodel::get_billing_reports() in /home/idreamzg/public_html/billing.ind.in/bakes/application/controllers/admin/add_billing.php on line 349
